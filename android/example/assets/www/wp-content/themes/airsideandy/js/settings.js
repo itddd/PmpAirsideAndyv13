@@ -1,0 +1,1 @@
+var ignoreFlipbook = false;
